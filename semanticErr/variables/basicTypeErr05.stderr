@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr05.wacc (12, 12):
+  unexpected char
+  expected bool
+  |begin
+  |  bool b = 't'
+  |           ^
+  |end
+
+

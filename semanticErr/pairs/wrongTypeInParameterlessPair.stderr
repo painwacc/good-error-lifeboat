@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in wrongTypeInParameterlessPair.wacc (17, 14):
+  unexpected int
+  expected pair
+  |
+  |  fst oops = c
+  |             ^
+  |end
+
+

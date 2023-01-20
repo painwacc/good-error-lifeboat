@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in arrayMultipleIndexError.wacc (19, 14):
+  unexpected int[]
+  expected int[][]
+  |  int[] sameAsA = ab[0];
+  |  int oops = sameAsA[0][1]
+  |             ^
+  |end
+
+

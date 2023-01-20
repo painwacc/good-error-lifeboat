@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in wrongArrayType.wacc (13, 31):
+  unexpected char[]
+  expected int[]
+  |begin
+  |  int[] should_be_int_array = ['a', 'b', 'c']
+  |                              ^
+  |end
+
+

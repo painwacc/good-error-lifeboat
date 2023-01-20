@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in stringElemErr.wacc (14, 3):
+  unexpected string
+  expected at least 1-dimensional array
+  |  println str ;
+  |  str[0] = 'H' ;
+  |  ^
+  |  println str
+
+

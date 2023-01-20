@@ -1,0 +1,31 @@
+ Exit code 200 returned.
+Scope error in multiCaseSensitivity.wacc (13, 11):
+  variable NUMBER has not been declared in this scope
+  relevant in-scope variables include:
+    int number (declared on line 12)
+  |  int number = 42 ;
+  |  println NUMBER ;
+  |          ^^^^^^
+  |
+
+Scope error in multiCaseSensitivity.wacc (16, 11):
+  variable index has not been declared in this scope
+  relevant in-scope variables include:
+    int number (declared on line 12)
+    int INDEX (declared on line 15)
+  |  println index ;
+  |
+  |          ^^^^^
+  |  int miXed = 3 ;
+
+Scope error in multiCaseSensitivity.wacc (19, 11):
+  variable MIxED has not been declared in this scope
+  relevant in-scope variables include:
+    int number (declared on line 12)
+    int miXed (declared on line 18)
+    int INDEX (declared on line 15)
+  |end
+  |
+  |          ^^^^^
+
+

@@ -1,0 +1,9 @@
+ Exit code 200 returned.
+Scope error in truErr.wacc (12, 9):
+  variable tru has not been declared in this scope
+  |begin
+  |  while tru do
+  |        ^^^
+  |    skip
+
+

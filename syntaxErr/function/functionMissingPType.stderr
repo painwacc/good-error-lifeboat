@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in functionMissingPType.wacc (12, 9):
+  unexpected identifier x
+  expected ")" or type
+  |begin
+  |  int f(x) is
+  |        ^
+  |    return 0 
+
+

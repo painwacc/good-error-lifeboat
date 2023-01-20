@@ -1,0 +1,9 @@
+ Exit code 200 returned.
+Scope error in indexUndefIdent.wacc (13, 12):
+  variable horse has not been declared in this scope
+  |begin
+  |  char c = horse[2]
+  |           ^^^^^
+  |end
+
+

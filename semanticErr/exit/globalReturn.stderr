@@ -1,0 +1,9 @@
+ Exit code 200 returned.
+Return placement error in globalReturn.wacc (12, 3):
+  return outside of function is not allowed
+  |begin
+  |  return 42 ;
+  |  ^^^^^^
+  |  println "should not get here" 
+
+

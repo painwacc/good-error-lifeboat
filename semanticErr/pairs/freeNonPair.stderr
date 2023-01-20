@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in freeNonPair.wacc (14, 8):
+  unexpected int
+  expected at least 0-dimensional array or pair
+  |  println x;
+  |  free 9 ; 
+  |       ^
+  |  println x
+
+

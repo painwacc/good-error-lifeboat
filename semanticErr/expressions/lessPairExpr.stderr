@@ -1,0 +1,18 @@
+ Exit code 200 returned.
+Type error in lessPairExpr.wacc (16, 11):
+  unexpected pair(int, int)
+  expected char or int
+  |  println y;
+  |  println x < y
+  |          ^
+  |end
+
+Type error in lessPairExpr.wacc (16, 15):
+  unexpected pair(int, int)
+  expected char or int
+  |  println y;
+  |  println x < y
+  |              ^
+  |end
+
+

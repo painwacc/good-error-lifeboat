@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in functionMissingParam.wacc (12, 22):
+  unexpected closing parenthesis
+  expected type
+  |begin
+  |  int f(int x, int y,) is
+  |                     ^
+  |    return 0 
+
+

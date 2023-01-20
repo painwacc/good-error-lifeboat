@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr03.wacc (12, 11):
+  unexpected string
+  expected int
+  |begin
+  |  int i = "foo"
+  |          ^
+  |end
+
+

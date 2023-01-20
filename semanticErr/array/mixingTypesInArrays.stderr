@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in mixingTypesInArrays.wacc (18, 17):
+  unexpected char
+  expected int
+  |  char f = call five();
+  |  int[] a = [1, f]
+  |                ^
+  |end
+
+

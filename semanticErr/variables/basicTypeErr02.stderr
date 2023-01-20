@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr02.wacc (12, 11):
+  unexpected char
+  expected int
+  |begin
+  |  int i = 'f'
+  |          ^
+  |end
+
+

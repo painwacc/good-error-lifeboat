@@ -1,0 +1,18 @@
+ Exit code 200 returned.
+Type error in moreArrExpr.wacc (14, 11):
+  unexpected int[]
+  expected char or int
+  |  int[] y = [3,4];
+  |  println x > y
+  |          ^
+  |end
+
+Type error in moreArrExpr.wacc (14, 15):
+  unexpected int[]
+  expected char or int
+  |  int[] y = [3,4];
+  |  println x > y
+  |              ^
+  |end
+
+

@@ -1,0 +1,18 @@
+ Exit code 200 returned.
+Type error in arrayIndexComplexNotInt.wacc (14, 17):
+  unexpected string
+  expected int
+  |  int[] a = [1, 2];
+  |  int b = a[1 - "horse"];
+  |                ^
+  |  int c = a[!false]
+
+Type error in arrayIndexComplexNotInt.wacc (15, 13):
+  unexpected bool
+  expected int
+  |  int b = a[1 - "horse"];
+  |  int c = a[!false]
+  |            ^
+  |end
+
+

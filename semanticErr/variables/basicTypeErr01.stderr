@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr01.wacc (12, 11):
+  unexpected bool
+  expected int
+  |begin
+  |  int i = true
+  |          ^
+  |end
+
+

@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in readTypeErr.wacc (13, 8):
+  unexpected bool
+  expected char or int
+  |  bool b = true ;
+  |  read b ; 
+  |       ^
+  |  println b 
+
+

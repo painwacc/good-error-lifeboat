@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr07.wacc (12, 12):
+  unexpected int
+  expected char
+  |begin
+  |  char c = 1
+  |           ^
+  |end
+
+

@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in noStringIndex.wacc (13, 12):
+  unexpected string
+  expected char[]
+  |  string str = "hello world";
+  |  char x = str[0]
+  |           ^
+  |end
+
+

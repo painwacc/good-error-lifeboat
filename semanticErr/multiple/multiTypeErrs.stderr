@@ -1,0 +1,26 @@
+ Exit code 200 returned.
+Type error in multiTypeErrs.wacc (12, 11):
+  unexpected bool
+  expected int
+  |begin
+  |  int i = true ;
+  |          ^
+  |  bool b = 'a' ;
+
+Type error in multiTypeErrs.wacc (13, 12):
+  unexpected char
+  expected bool
+  |  int i = true ;
+  |  bool b = 'a' ;
+  |           ^
+  |  char c = 10
+
+Type error in multiTypeErrs.wacc (14, 12):
+  unexpected int
+  expected char
+  |  bool b = 'a' ;
+  |  char c = 10
+  |           ^
+  |end
+
+

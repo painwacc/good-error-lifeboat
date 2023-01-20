@@ -1,0 +1,11 @@
+ Exit code 100 returned.
+Syntax error in noBodyAfterFuncs.wacc (15, 1):
+  unexpected keyword end
+  expected function declaration or statement
+  missing main program body
+  |  end
+  |end
+  |^^^
+  | 
+
+

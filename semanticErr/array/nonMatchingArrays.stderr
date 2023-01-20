@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in nonMatchingArrays.wacc (15, 13):
+  unexpected int[][]
+  expected int[]
+  |  int[][] aa = [a, a];
+  |  int[] b = aa
+  |            ^
+  |end
+
+

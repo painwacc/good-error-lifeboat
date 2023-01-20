@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr11.wacc (12, 14):
+  unexpected bool
+  expected string
+  |begin
+  |  string s = true
+  |             ^
+  |end
+
+

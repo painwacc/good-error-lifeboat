@@ -1,0 +1,9 @@
+ Exit code 200 returned.
+Undefined function error in callUndefFunction.wacc (13, 16):
+  function fib has not been defined
+  |begin
+  |  int result = call fib(5)
+  |               ^^^
+  |end
+
+

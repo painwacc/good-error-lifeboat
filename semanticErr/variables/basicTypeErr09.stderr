@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr09.wacc (12, 12):
+  unexpected string
+  expected char
+  |begin
+  |  char c = "a"
+  |           ^
+  |end
+
+

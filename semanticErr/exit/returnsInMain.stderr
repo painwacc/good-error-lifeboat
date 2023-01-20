@@ -1,0 +1,29 @@
+ Exit code 200 returned.
+Return placement error in returnsInMain.wacc (14, 5):
+  return outside of function is not allowed
+  |  while true do
+  |    return 3
+  |    ^^^^^^
+  |  done;
+
+Return placement error in returnsInMain.wacc (18, 5):
+  return outside of function is not allowed
+  |    return 4
+  |  else
+  |    ^^^^^^
+  |    return 5
+
+Return placement error in returnsInMain.wacc (20, 5):
+  return outside of function is not allowed
+  |  fi;
+  |
+  |    ^^^^^^
+  |  begin
+
+Return placement error in returnsInMain.wacc (24, 5):
+  return outside of function is not allowed
+  |end
+  |
+  |    ^^^^^^
+
+

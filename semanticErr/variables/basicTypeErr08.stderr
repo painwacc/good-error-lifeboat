@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr08.wacc (12, 12):
+  unexpected bool
+  expected char
+  |begin
+  |  char c = false
+  |           ^
+  |end
+
+

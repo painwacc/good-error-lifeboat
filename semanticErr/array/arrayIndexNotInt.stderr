@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in arrayIndexNotInt.wacc (14, 13):
+  unexpected string
+  expected int
+  |  int[] a = [1, 2];
+  |  int b = a["horse"]
+  |            ^
+  |end
+
+

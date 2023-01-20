@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in readIntoBadSnd.wacc (13, 12):
+  unexpected pair(bool, bool)
+  expected pair(any, char) or pair(any, int)
+  |  pair(bool, bool) p = null;
+  |  read snd p
+  |           ^
+  |end
+
+

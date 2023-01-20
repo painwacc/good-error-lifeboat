@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in ifIntCondition.wacc (12, 9):
+  unexpected int
+  expected bool
+  |begin
+  |  if 15 + 6 then 
+  |        ^
+  |    skip 
+
+

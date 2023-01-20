@@ -1,0 +1,9 @@
+ Exit code 200 returned.
+Scope error in undeclaredVar.wacc (12, 3):
+  variable x has not been declared in this scope
+  |begin
+  |  x = 10
+  |  ^
+  |end
+
+

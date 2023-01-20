@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in mismatchedPair.wacc (12, 24):
+  unexpected pair(int, int)
+  expected pair(char, bool)
+  |begin
+  |  pair(char, bool) x = newpair(10, 20)
+  |                       ^
+  |end
+
+

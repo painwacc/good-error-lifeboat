@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in functionScopeDef.wacc (13, 5):
+  unexpected function declaration
+  all functions must be declared at the top of the main block
+  |  begin
+  |    int f() is
+  |    ^
+  |      return 0 
+
+

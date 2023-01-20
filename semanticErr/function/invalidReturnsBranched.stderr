@@ -1,0 +1,9 @@
+ Exit code 200 returned.
+Scope error in invalidReturnsBranched.wacc, function f (15, 14):
+  variable horse has not been declared in this scope
+  |    if true then
+  |      return horse
+  |             ^^^^^
+  |    else
+
+

@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in whileIntCondition.wacc (12, 12):
+  unexpected int
+  expected bool
+  |begin
+  |  while 15 + 6 do
+  |           ^
+  |    skip
+
+

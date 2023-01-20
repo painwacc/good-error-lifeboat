@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in printTypeErr01.wacc (14, 15):
+  unexpected char
+  expected int
+  |  char y = 'a' ;
+  |  println x + y
+  |              ^
+  |end
+
+

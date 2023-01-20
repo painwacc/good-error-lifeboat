@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in badCharExit.wacc (12, 8):
+  unexpected char
+  expected int
+  |begin
+  |  exit 'a'
+  |       ^
+  |end
+
+

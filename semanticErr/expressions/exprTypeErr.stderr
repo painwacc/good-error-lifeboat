@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in exprTypeErr.wacc (12, 18):
+  unexpected bool
+  expected int
+  |begin
+  |  int b = 15 + 6 || 19
+  |                 ^
+  |end
+
+

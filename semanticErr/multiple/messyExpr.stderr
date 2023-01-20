@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in messyExpr.wacc (13, 38):
+  unexpected bool
+  expected int
+  |
+  |  int x = ((1 + true) * (2 - false)) || 17 ;
+  |                                     ^
+  |  exit x
+
+

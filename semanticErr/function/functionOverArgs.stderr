@@ -1,0 +1,12 @@
+ Exit code 200 returned.
+Function call error in functionOverArgs.wacc (15, 13):
+  Wrong number of arguments provided to function f
+  unexpected 3 arguments
+  expected 2 arguments
+  (function f has type (int, int) -> int)
+  |	end
+  |	int x = call f(1,2,3);
+  |            ^
+  |	println x
+
+

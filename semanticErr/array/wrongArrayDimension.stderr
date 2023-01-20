@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in wrongArrayDimension.wacc (14, 14):
+  unexpected int[]
+  expected int[][][]
+  |  int[] a = [1, 2];
+  |  int oops = a[1][2][3]
+  |             ^
+  |end
+
+

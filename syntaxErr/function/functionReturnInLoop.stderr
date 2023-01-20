@@ -1,0 +1,9 @@
+ Exit code 100 returned.
+Syntax error in functionReturnInLoop.wacc (12, 3):
+  function `f` is missing a return on all exit paths
+  |begin
+  |  int f(int n) is
+  |  ^^^^^^^^^^^^^^^
+  |    int i = 0;
+
+

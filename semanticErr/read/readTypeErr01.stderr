@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in readTypeErr01.wacc (13, 8):
+  unexpected pair(int, int)
+  expected char or int
+  |  pair(int, int) p = newpair(1,2);
+  |  read p
+  |       ^
+  |end
+
+

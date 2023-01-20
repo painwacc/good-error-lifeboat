@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in badParentScope.wacc (16, 12):
+  unexpected int
+  expected at least 0-dimensional array or pair
+  |    begin
+  |      free x
+  |           ^
+  |    end;
+
+

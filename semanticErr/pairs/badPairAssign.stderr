@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in badPairAssign.wacc (12, 11):
+  unexpected pair(int, int)
+  expected int
+  |begin
+  |  int x = newpair(10, 20)
+  |          ^
+  |end
+
+

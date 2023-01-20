@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in readIntoBadFst.wacc (13, 12):
+  unexpected pair(bool, bool)
+  expected pair(char, any) or pair(int, any)
+  |  pair(bool, bool) p = null;
+  |  read fst p
+  |           ^
+  |end
+
+

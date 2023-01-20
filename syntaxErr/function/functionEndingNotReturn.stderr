@@ -1,0 +1,9 @@
+ Exit code 100 returned.
+Syntax error in functionEndingNotReturn.wacc (11, 3):
+  function `f` is missing a return on all exit paths
+  |begin
+  |  int f() is
+  |  ^^^^^^^^^^
+  |    return 2;
+
+

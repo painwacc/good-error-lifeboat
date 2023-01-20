@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in nonMatchingPairs.wacc (15, 8):
+  unexpected pair(int, int)
+  expected pair(char, char)
+  |  pair(char, char) p2 = newpair('a', 'a');
+  |  p2 = p1
+  |       ^
+  |end
+
+

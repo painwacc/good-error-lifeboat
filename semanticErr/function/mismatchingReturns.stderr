@@ -1,0 +1,18 @@
+ Exit code 200 returned.
+Type error in mismatchingReturns.wacc, function f (15, 14):
+  unexpected char
+  expected int
+  |    if b then
+  |      return 'c';
+  |             ^
+  |      while true do
+
+Type error in mismatchingReturns.wacc, function f (17, 16):
+  unexpected char
+  expected int
+  |        return 'd'
+  |      done
+  |               ^
+  |    else
+
+

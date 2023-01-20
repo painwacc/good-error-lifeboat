@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Function redefinition error in functionRedefine.wacc (15, 3):
+  illegal redefinition of function f
+  previously declared on line 12
+  |	end
+  |  int f() is
+  |  ^
+  |    return 1
+
+

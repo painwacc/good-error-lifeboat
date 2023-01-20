@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in functionBadParam.wacc (16, 18):
+  unexpected bool
+  expected int
+  |	bool b = true ; 
+  |  int x = call f(b) 
+  |                 ^
+  |end
+
+

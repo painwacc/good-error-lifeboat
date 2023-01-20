@@ -1,0 +1,9 @@
+ Exit code 100 returned.
+Syntax error in mutualRecursionNoReturn.wacc (23, 3):
+  function `r2` is missing a return on all exit paths
+  |
+  |  int r2(int y) is
+  |  ^^^^^^^^^^^^^^^^
+  |    print "r2: received " ;
+
+

@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in functionBadReturn.wacc, function f (13, 16):
+  unexpected char
+  expected int
+  |	int f() is
+  |		return 'c'
+  |               ^
+  |	end
+
+

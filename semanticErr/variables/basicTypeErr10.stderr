@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr10.wacc (12, 14):
+  unexpected int
+  expected string
+  |begin
+  |  string s = 128
+  |             ^
+  |end
+
+

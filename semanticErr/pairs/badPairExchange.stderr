@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in badPairExchange.wacc (14, 13):
+  Attempting to exchange values between pairs of unknown types
+  Pair exchange is only legal when the type of at least one of the sides is known or specified
+  |  pair(pair, int) q = newpair(p, 6);
+  |  fst fst q = snd fst q
+  |            ^
+  |end
+
+

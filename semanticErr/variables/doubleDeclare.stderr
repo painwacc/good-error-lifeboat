@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Scope error in doubleDeclare.wacc (13, 3):
+  illegal redeclaration of variable x
+  previously declared (in this scope) on line 12
+  |  int x = 10 ;
+  |  int x = 20
+  |  ^
+  |end
+
+

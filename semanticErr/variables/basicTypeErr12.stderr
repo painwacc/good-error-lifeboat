@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in basicTypeErr12.wacc (12, 14):
+  unexpected char
+  expected string
+  |begin
+  |  string s = 'h'
+  |             ^
+  |end
+
+

@@ -1,0 +1,26 @@
+ Exit code 200 returned.
+Type error in obfuscatingReturnsWithWhile.wacc, function f (16, 16):
+  unexpected char
+  expected int
+  |      while true do
+  |        return 'a'
+  |               ^
+  |      done
+
+Type error in obfuscatingReturnsWithWhile.wacc, function f (25, 16):
+  unexpected char
+  expected int
+  |        return 'b'
+  |      done
+  |               ^
+  |    fi;
+
+Type error in obfuscatingReturnsWithWhile.wacc, function f (38, 14):
+  unexpected bool
+  expected int
+  |    done;
+  |    exit -1
+  |             ^
+  |  end
+
+

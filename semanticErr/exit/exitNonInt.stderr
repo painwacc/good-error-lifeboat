@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in exitNonInt.wacc (13, 8):
+  unexpected char
+  expected int
+  |  char x = 'f' ;
+  |  exit x
+  |       ^
+  |end
+
+

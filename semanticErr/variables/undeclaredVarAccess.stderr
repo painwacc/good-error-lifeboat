@@ -1,0 +1,11 @@
+ Exit code 200 returned.
+Scope error in undeclaredVarAccess.wacc (13, 11):
+  variable y has not been declared in this scope
+  relevant in-scope variables include:
+    int x (declared on line 12)
+  |  int x = 10 ;
+  |  x = x + y
+  |          ^
+  |end
+
+

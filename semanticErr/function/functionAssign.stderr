@@ -1,0 +1,9 @@
+ Exit code 200 returned.
+Scope error in functionAssign.wacc (16, 3):
+  variable f has not been declared in this scope
+  |  
+  |  f = 2
+  |  ^
+  |end
+
+

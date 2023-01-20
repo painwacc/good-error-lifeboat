@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in badScopeRedefine.wacc (15, 9):
+  unexpected int
+  expected bool
+  |    bool x = true ;
+  |    x = 5
+  |        ^
+  |  end ;
+
+

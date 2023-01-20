@@ -1,0 +1,9 @@
+ Exit code 200 returned.
+Scope error in funcVarAccess.wacc, function f (13, 5):
+  variable x has not been declared in this scope
+  |	int f() is
+  |    x = -1 ;
+  |    ^
+  |		return 0
+
+

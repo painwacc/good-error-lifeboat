@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in mixedOpTypeErr.wacc (12, 19):
+  unexpected bool
+  expected int
+  |begin
+  |  int b = 1 + 2 + true + 4 + 5
+  |                  ^
+  |end
+
+

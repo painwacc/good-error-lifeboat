@@ -25,11 +25,11 @@ fn main() -> Result<()> {
             .with_context(|| format!("Failed to run `../refCompile {p:?}`"))?;
 
         let stdout = String::from_utf8(cmd_out.stdout)?;
-        let (_, err) = stdout
-            .split_once("Errors detected during compilation!")
-            .ok_or_else(|| anyhow!("No split found for {p:?}"))?;
-
-        fs::write(&stderr_path, &err)?;
+        if let Some((_, err)) = stdout.split_once("Errors detected during compilation!") {
+            fs::write(&stderr_path, &err)?;
+        } else {
+            eprintln!("Can't split for {p:?}")
+        }
     }
 
     Ok(())

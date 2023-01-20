@@ -1,0 +1,18 @@
+ Exit code 200 returned.
+Type error in intOpTypeErr.wacc (12, 11):
+  unexpected bool
+  expected int
+  |begin
+  |  int x = true + false
+  |          ^
+  |end
+
+Type error in intOpTypeErr.wacc (12, 18):
+  unexpected bool
+  expected int
+  |begin
+  |  int x = true + false
+  |                 ^
+  |end
+
+

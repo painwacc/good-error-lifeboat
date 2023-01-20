@@ -1,0 +1,11 @@
+ Exit code 100 returned.
+Syntax error in funcExpr.wacc (15, 12):
+  unexpected opening parenthesis
+  expected binary operator or index (like `xs[idx]`)
+  function calls may not appear in expressions and must use `call`
+  |  end
+  |  int x = f() + f()
+  |           ^
+  |end
+
+

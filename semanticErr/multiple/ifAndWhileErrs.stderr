@@ -1,0 +1,17 @@
+ Exit code 200 returned.
+Scope error in ifAndWhileErrs.wacc (12, 9):
+  variable tru has not been declared in this scope
+  |begin
+  |  while tru do
+  |        ^^^
+  |    if 15 + 6 then 
+
+Type error in ifAndWhileErrs.wacc (13, 11):
+  unexpected int
+  expected bool
+  |  while tru do
+  |    if 15 + 6 then 
+  |          ^
+  |      skip 
+
+

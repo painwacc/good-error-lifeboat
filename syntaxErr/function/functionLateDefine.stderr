@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in functionLateDefine.wacc (17, 3):
+  unexpected function declaration
+  all functions must be declared at the top of the main block
+  |  println x ;
+  |  int g() is
+  |  ^
+  |    return 1
+
+

@@ -1,0 +1,10 @@
+ Exit code 200 returned.
+Type error in functionBadArgUse.wacc, function f (13, 14):
+  unexpected int
+  expected bool
+  |	int f(int x) is
+  |    bool b = x && true ;
+  |             ^
+  |		return 0
+
+

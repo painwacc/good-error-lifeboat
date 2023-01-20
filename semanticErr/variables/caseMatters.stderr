@@ -1,0 +1,11 @@
+ Exit code 200 returned.
+Scope error in caseMatters.wacc (14, 11):
+  variable NUMBER has not been declared in this scope
+  relevant in-scope variables include:
+    int number (declared on line 13)
+  |  int number = 42 ;
+  |  println NUMBER
+  |          ^^^^^^
+  |  
+
+
