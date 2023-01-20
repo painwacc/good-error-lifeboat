@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in arrayExpr.wacc (12, 23):
+  unexpected "++"
+  expected ";" or end of program
+  |begin
+  |  int[] b = [1, 2, 3] ++ [4] ;
+  |                      ^^
+  | println b[3]
+
+

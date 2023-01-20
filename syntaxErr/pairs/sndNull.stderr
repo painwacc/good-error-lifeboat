@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in sndNull.wacc (12, 15):
+  unexpected keyword null
+  expected fst, identifier, or snd
+  |begin
+  |  int i = snd null;
+  |              ^^^^
+  |  println i
+
+

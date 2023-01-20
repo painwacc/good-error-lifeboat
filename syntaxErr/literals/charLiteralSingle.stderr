@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in charLiteralSingle.wacc (13, 16):
+  unexpected "e"
+  expected end of character literal
+  |begin
+  |    char c = 'Hello Jamie'
+  |               ^
+  |end
+
+

@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in elemOfNonPair.wacc (15, 15):
+  unexpected opening parenthesis
+  expected fst, identifier, or snd
+  |  int b = fst a;
+  |  int c = snd (5 + 'a')
+  |              ^
+  |end
+
+

@@ -1,0 +1,11 @@
+ Exit code 100 returned.
+Syntax error in ifNofi.wacc (17, 1):
+  unexpected keyword end
+  expected ";" or fi
+  unclosed if statement
+  |    skip
+  |end
+  |^^^
+  |
+
+

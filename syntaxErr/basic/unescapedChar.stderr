@@ -1,0 +1,11 @@
+ Exit code 100 returned.
+Syntax error in unescapedChar.wacc (12, 13):
+  unexpected """
+  expected escape character or graphic character
+  double quotes must be escaped inside character literals
+  |begin
+  |  char a = '"'
+  |            ^
+  |end
+
+

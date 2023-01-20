@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in badintAssignments.wacc (12, 14):
+  unexpected integer 0
+  expected ";", binary operator, or end of program
+  |begin
+  |  int x = 22 0 ;
+  |             ^
+  |  int y = 1A4
+
+

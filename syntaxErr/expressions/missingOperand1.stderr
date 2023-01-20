@@ -1,0 +1,12 @@
+ Exit code 100 returned.
+Syntax error in missingOperand1.wacc (12, 11):
+  unexpected "*"
+  expected array literal, expression, fst, function call, pair literal, or snd
+  expressions may start with integer, string, character or boolean literals; identifiers; unary operators; null; or parentheses
+  in addition, expressions may contain array indexing operations; and comparison, logical, and arithmetic operators
+  |begin
+  |  int b = * 6
+  |          ^
+  |end
+
+

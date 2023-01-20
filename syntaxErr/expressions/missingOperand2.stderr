@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in missingOperand2.wacc (13, 1):
+  unexpected keyword end
+  expected boolean literal, character literal, identifier, integer literal, null, open parenthesis, string literal, or unary operator
+  |  int b = 2 - 
+  |end
+  |^^^
+  |
+
+

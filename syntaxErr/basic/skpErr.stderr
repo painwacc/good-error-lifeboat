@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in skpErr.wacc (11, 11):
+  unexpected keyword end
+  expected assignment or index (like `xs[idx]`)
+  |
+  |begin skp end
+  |          ^^^
+  |
+
+

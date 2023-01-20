@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in whilErr.wacc (12, 8):
+  unexpected false
+  expected assignment or index (like `xs[idx]`)
+  |begin
+  |  whil false do
+  |       ^^^^^
+  |    skip
+
+

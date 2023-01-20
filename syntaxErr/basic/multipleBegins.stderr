@@ -1,0 +1,11 @@
+ Exit code 100 returned.
+Syntax error in multipleBegins.wacc (15, 1):
+  unexpected keyword begin
+  expected end of file
+  all program body and function declarations must be within `begin` and `end`
+  |
+  |begin 
+  |^^^^^
+  |  skip 
+
+

@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in dooErr.wacc (12, 17):
+  unexpected "o"
+  expected end of do
+  |begin
+  |  while false doo
+  |                ^
+  |    skip
+
+

@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in ifiErr.wacc (12, 7):
+  unexpected true
+  expected assignment or index (like `xs[idx]`)
+  |begin
+  |  ifi true 
+  |      ^^^^
+  |  then
+
+

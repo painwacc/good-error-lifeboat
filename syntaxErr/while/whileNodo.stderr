@@ -1,0 +1,11 @@
+ Exit code 100 returned.
+Syntax error in whileNodo.wacc (13, 5):
+  unexpected keyword skip
+  expected binary operator or do
+  the condition of a while loop must be closed with `do`
+  |  while false
+  |    skip
+  |    ^^^^
+  |  done
+
+

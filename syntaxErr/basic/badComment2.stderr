@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in badComment2.wacc (12, 20):
+  unexpected identifier I
+  expected assignment or index (like `xs[idx]`)
+  |begin
+  |  int x = 10 ; can I put in-line comments after the ';'?
+  |                   ^
+  |  x = 20 ; #yes, but only if you remember to use the '#' charcter!
+
+

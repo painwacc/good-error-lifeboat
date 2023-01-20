@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in varNoName.wacc (13, 7):
+  unexpected "="
+  expected [] (array type) or identifier
+  |begin
+  |  int = 42
+  |      ^
+  |end
+
+

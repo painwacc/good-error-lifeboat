@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in noNesting.wacc (12, 14):
+  unexpected opening parenthesis
+  expected ","
+  |begin
+  |    pair(pair(int, string), char) p = null
+  |             ^
+  |end
+
+

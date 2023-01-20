@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in badComment.wacc (12, 7):
+  unexpected ","
+  expected assignment or index (like `xs[idx]`)
+  |begin
+  |  oops, this is supposed to be a comment
+  |      ^
+  |  print "Hello World!\n"
+
+

@@ -1,0 +1,10 @@
+ Exit code 100 returned.
+Syntax error in endSeq.wacc (11, 15):
+  unexpected ;
+  semi-colons cannot follow the final `end` of the program
+  |
+  |begin skip end;
+  |              ^
+  |
+
+

@@ -1,0 +1,13 @@
+ Exit code 100 returned.
+Syntax error in printlnCharArry.wacc (12, 11):
+  unexpected array literal
+  expected expression
+  expressions may start with integer, string, character or boolean literals; identifiers; unary operators; null; or parentheses
+  arrays can only appear in assignments, they may not appear in arbitrary expressions
+  in addition, expressions may contain array indexing operations; and comparison, logical, and arithmetic operators
+  |begin
+  |  println ['H','e','l','l','o',' ','W','o','r','l','d','!']
+  |          ^
+  |end
+
+

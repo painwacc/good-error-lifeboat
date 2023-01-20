@@ -1,0 +1,11 @@
+ Exit code 100 returned.
+Syntax error in ifNoelse.wacc (15, 3):
+  unexpected keyword fi
+  expected ";" or else
+  all if statements must have an else clause
+  |    skip
+  |  fi
+  |  ^^
+  |end
+
+
