@@ -1,6 +1,6 @@
  Exit code 100 returned.
 Syntax error in bigIntAssignment.wacc (12, 11):
-  literal 2200000000 is larger than max value of 2147483647
+  literal is not within the range -2147483648 to 2147483647
   |begin
   |  int x = 2200000000 
   |          ^^^^^^^^^^

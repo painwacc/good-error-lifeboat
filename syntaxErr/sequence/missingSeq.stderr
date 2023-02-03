@@ -1,7 +1,7 @@
  Exit code 100 returned.
 Syntax error in missingSeq.wacc (13, 3):
   unexpected keyword skip
-  expected ";" or end of program
+  expected ";" or end
   |  skip
   |  skip 
   |  ^^^^

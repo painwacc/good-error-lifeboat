@@ -1,9 +1,7 @@
  Exit code 100 returned.
 Syntax error in emptySeq.wacc (11, 7):
-  unexpected ;
-  expected statement
-  extra semi-colons are not valid, there must be exactly one between each statement
-  statements consist of declarations, assignments, builtin function calls, scopes, or control flow like `if` and `while`
+  unexpected ";"
+  expected begin, exit, free, fst, function declaration, identifier, if statement, print, println, read, return, skip, snd, type, or while
   |
   |begin ; end
   |      ^

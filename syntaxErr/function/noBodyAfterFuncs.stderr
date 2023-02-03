@@ -1,8 +1,7 @@
  Exit code 100 returned.
 Syntax error in noBodyAfterFuncs.wacc (15, 1):
   unexpected keyword end
-  expected function declaration or statement
-  missing main program body
+  expected ";", begin, binary operator, exit, free, fst, function declaration, identifier, if statement, print, println, read, return, skip, snd, type, or while
   |  end
   |end
   |^^^

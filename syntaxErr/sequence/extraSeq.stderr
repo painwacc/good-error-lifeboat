@@ -1,9 +1,7 @@
  Exit code 100 returned.
 Syntax error in extraSeq.wacc (11, 13):
   unexpected keyword end
-  expected statement
-  semi-colons may not appear at the end of a block
-  statements consist of declarations, assignments, builtin function calls, scopes, or control flow like `if` and `while`
+  expected begin, exit, free, fst, identifier, if statement, print, println, read, return, skip, snd, type, or while
   |
   |begin skip; end
   |            ^^^

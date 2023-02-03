@@ -2,7 +2,6 @@
 Syntax error in ifNothen.wacc (13, 3):
   unexpected keyword else
   expected binary operator or then
-  the condition of an if statement must be closed with `then`
   |  if true 
   |  else
   |  ^^^^

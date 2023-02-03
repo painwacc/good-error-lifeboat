@@ -1,9 +1,7 @@
  Exit code 100 returned.
 Syntax error in doubleSeq.wacc (12, 8):
-  unexpected ;
-  expected statement
-  extra semi-colons are not valid, there must be exactly one between each statement
-  statements consist of declarations, assignments, builtin function calls, scopes, or control flow like `if` and `while`
+  unexpected ";"
+  expected begin, exit, free, fst, identifier, if statement, print, println, read, return, skip, snd, type, or while
   |begin 
   |  skip;;
   |       ^

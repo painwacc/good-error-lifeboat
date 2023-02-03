@@ -2,7 +2,6 @@
 Syntax error in thisIsNotC.wacc (12, 13):
   unexpected "*"
   expected [] (array type) or identifier
-  pointer types are not supported by WACC
   |begin
   |  int f(int *x) is 
   |            ^

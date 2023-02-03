@@ -1,10 +1,7 @@
  Exit code 100 returned.
 Syntax error in badLookup02.wacc (13, 11):
   unexpected keyword snd
-  expected expression
-  expressions may start with integer, string, character or boolean literals; identifiers; unary operators; null; or parentheses
-  in addition, expressions may contain array indexing operations; and comparison, logical, and arithmetic operators
-  tuple extraction is only allowed in assignments, and must not appear in arbitrary expressions
+  expected boolean literal, character literal, identifier, integer literal, null, open parenthesis, string literal, or unary operator
   | pair(int, char) p = newpair(10, 'a') ;
   |  println snd p
   |          ^^^

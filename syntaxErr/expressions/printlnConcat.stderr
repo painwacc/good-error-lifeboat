@@ -1,7 +1,7 @@
  Exit code 100 returned.
 Syntax error in printlnConcat.wacc (12, 22):
   unexpected space
-  expected end of integer
+  expected digit
   |begin
   |  println "Hello " ++ "World!"
   |                     ^

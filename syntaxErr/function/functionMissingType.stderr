@@ -3,7 +3,7 @@ Syntax error in functionMissingType.wacc (12, 3):
   function declaration for `f` missing type
   |begin
   |  f() is
-  |  ^^
+  |  ^
   |    return 0 
 
 

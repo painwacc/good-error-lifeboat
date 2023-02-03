@@ -2,7 +2,6 @@
 Syntax error in bgnErr.wacc (11, 1):
   unexpected identifier bgn
   expected begin
-  all program body and function declarations must be within `begin` and `end`
   |
   |bgn skip end
   |^^^

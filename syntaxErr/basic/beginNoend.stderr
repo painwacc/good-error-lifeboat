@@ -1,8 +1,7 @@
  Exit code 100 returned.
 Syntax error in beginNoend.wacc (12, 1):
   unexpected end of file
-  expected ";" or end of program
-  a scope, function or the main body is unclosed
+  expected ";" or end
   |begin skip
   |
   |^

@@ -1,7 +1,7 @@
  Exit code 100 returned.
 Syntax error in stringLiteralNoNewlines.wacc (12, 22):
   unexpected newline
-  expected """, end of string literal, or string character
+  expected """ or string character
   |begin
   |    string s = "hello
   |                     ^

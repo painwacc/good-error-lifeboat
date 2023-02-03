@@ -3,7 +3,7 @@ Syntax error in badlyNamed.wacc (12, 3):
   function declaration for `intf` missing type
   |begin
   |  intf() is
-  |  ^^^^^
+  |  ^^^^
   |    return 42
 
 

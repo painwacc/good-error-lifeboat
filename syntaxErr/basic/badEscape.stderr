@@ -2,7 +2,7 @@
 Syntax error in badEscape.wacc (12, 14):
   unexpected "H"
   expected end of escape sequence
-  valid escape sequences are \0, \n, \t, \b, \f, \r, \", \' or \\
+  invalid escape sequence
   |begin
   |  char a = '\H'
   |             ^

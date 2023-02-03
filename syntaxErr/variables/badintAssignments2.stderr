@@ -1,7 +1,7 @@
  Exit code 100 returned.
 Syntax error in badintAssignments2.wacc (12, 12):
   unexpected identifier A4
-  expected ";", binary operator, end of integer, or end of program
+  expected ";", binary operator, digit, or end
   |begin
   |  int y = 1A4
   |           ^^
